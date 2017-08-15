@@ -8,7 +8,7 @@ var config = {
 };
 
 var paths = {
-  // assets: "/assets/",
+  assets: "/assets/",
   html: "**/*.html",
   sass: 'scss/*.scss',
   mainSass: 'scss/main.scss',
@@ -16,7 +16,7 @@ var paths = {
 };
 
 var sources = {
-  // assets: config.source + paths.assets,
+  assets: config.source + paths.assets,
   html: config.source + paths.html,
   sass: config.source + paths.sass,
   js: config.source + paths.js,
