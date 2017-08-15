@@ -1,0 +1,15 @@
+{
+  "name": "hi-oscar",
+  "version": "0.1.0",
+  "description": "Creación de web que llama un API de QUOTES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "Quotes"
+  ],
+  "author": "Dafne Díaz",
+  "license": "ISC"
+}
